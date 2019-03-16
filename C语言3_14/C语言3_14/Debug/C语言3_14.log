@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/3/15/周五 21:43:33。
+     1>项目“D:\VS\代码\练习\练习\练习\C语言3_14\C语言3_14\C语言3_14.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\vs\代码\练习\练习\练习\c语言3_14\c语言3_14\test.c(75): warning C4552: “|”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\vs\代码\练习\练习\练习\c语言3_14\c语言3_14\test.c(79): warning C4716: “reverse_bits”: 必须返回一个值
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS\代码\练习\练习\练习\C语言3_14\Debug\C语言3_14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS\代码\练习\练习\练习\C语言3_14\Debug\C语言3_14.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS\代码\练习\练习\练习\C语言3_14\Debug\C语言3_14.lib" /MACHINE:X86 Debug\test.obj
+         C语言3_14.vcxproj -> D:\VS\代码\练习\练习\练习\C语言3_14\Debug\C语言3_14.exe
+     1>已完成生成项目“D:\VS\代码\练习\练习\练习\C语言3_14\C语言3_14\C语言3_14.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.31
