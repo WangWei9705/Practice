@@ -5,7 +5,11 @@
 
 void _GetName(char*path);
 
+<<<<<<< HEAD
 char* root_path = "D:\\";
+=======
+char* root_path = "D:\\Git\\";
+>>>>>>> b1ce68106245d7cac6a8c01c699b48022d25a7f8
 char* search = ".c";
 char* check = "*";
 char* suffix = "\\";//ºó×º£»
